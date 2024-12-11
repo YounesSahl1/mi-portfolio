@@ -1,0 +1,6 @@
+<ul class="enlaces-sociales">
+  {{ $links := .Get "links" | unmarshal }}
+  {{ range $links }}
+    <li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .nombre }}</a></li>
+  {{ end }}
+</ul>

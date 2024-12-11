@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MI PORTFOLIO</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on MI PORTFOLIO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series de TV</title>
+      <link>http://localhost:1313/tv/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tv/</guid>
+      <description>&lt;h1 id=&#34;mis-series-favoritas&#34;&gt;MIS SERIES FAVORITAS&lt;/h1&gt;&#xA;&lt;ul&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;li&gt;Breaking Bad (2008)&lt;/li&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;li&gt;Stranger Things (2016)&lt;/li&gt;&#xD;&#xA;    &#xD;&#xA;  &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sintaxis de Markdown</title>
+      <link>http://localhost:1313/markdown/markdown/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markdown/markdown/</guid>
+      <description>&lt;h1 id=&#34;sintaxis-básica-de-markdown&#34;&gt;Sintaxis Básica de Markdown&lt;/h1&gt;&#xA;&lt;p&gt;En esta sección, aprenderás los conceptos básicos de &lt;strong&gt;Markdown&lt;/strong&gt;, un lenguaje de marcado sencillo que se utiliza para formatear texto de manera rápida.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-encabezados&#34;&gt;1. Encabezados&lt;/h2&gt;&#xA;&lt;p&gt;Los encabezados en Markdown se crean usando el símbolo &lt;code&gt;#&lt;/code&gt;. Puedes crear varios niveles de encabezado usando más símbolos &lt;code&gt;#&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ejemplo:&lt;/p&gt;&#xA;&lt;h1 id=&#34;encabezado-1&#34;&gt;Encabezado 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;encabezado-2&#34;&gt;Encabezado 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;encabezado-3&#34;&gt;Encabezado 3&lt;/h3&gt;&#xA;&lt;h2 id=&#34;2-listas&#34;&gt;2. Listas&lt;/h2&gt;&#xA;&lt;p&gt;Listas ordenadas:&#xA;Usa números seguidos de un punto para crear una lista ordenada.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/sobre-mi/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sobre-mi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/younes.jpeg&#34; alt=&#34;Mi Foto&#34;&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;mi-historia&#34;&gt;Mi Historia&lt;/h2&gt;&#xA;&lt;p&gt;Soy &lt;strong&gt;Younes SAHL&lt;/strong&gt;, estudiante de un Grado Superior en Desarrollo de Aplicaciones Web, actualmente cursando el segundo año. A lo largo de este camino, he desarrollado habilidades en tecnologías clave como HTML, CSS, JavaScript, y bases de datos, entre otras herramientas esenciales para la creación de aplicaciones web modernas y funcionales.&lt;/p&gt;&#xA;&lt;p&gt;Aunque mi principal enfoque académico ha sido el desarrollo técnico, también he descubierto un interés especial por entender cómo la tecnología impacta en los negocios y en la experiencia del usuario, lo que me motiva a explorar roles como el de analista funcional o business analyst en el futuro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
